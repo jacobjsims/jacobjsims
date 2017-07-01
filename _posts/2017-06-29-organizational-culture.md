@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Engineering Cultures"
+title:  "Evolving Cultures"
 date:   2017-04-17 14:12:52 -0700
 categories: leadership
 ---
