@@ -6,7 +6,6 @@ categories: leadership
 ---
 Peter Drucker said it best "Culture eats strategy for breakfast."
 
-
 Creating a culture that empowers, attracts, and retains remarkable creative talent has been a life long quest. The journey and steps always change with each new challenge, but the learning never ceases.  
 
 So what exactly is a great culture and how do you create one?
