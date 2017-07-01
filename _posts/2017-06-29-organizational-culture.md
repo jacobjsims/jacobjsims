@@ -23,8 +23,6 @@ From my perspective culture is a relationship requiring active listening and par
 
 Strong relationships take a combination of active listening, humility, a willingness to change, and most importantly someone willing to take the first step. As a leader your job is to take that first step. When was the last time you had a conversation with an employee asking not "What went right" but "How could we do better?". How will you take the first step to learning and growing for your team?
 
-
-##Conclusion
 Strong cultures are not decreed they are built over time. Cultures evolve through continued repeated dialogue and demonstration of real values. As leaders it is our responsibility to cultivate remarkable cultures that enable our teams and business to thrive. It is exciting and humbling to help an organization find its soul.
 
 
