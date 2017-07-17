@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Evolving Cultures"
-date:   2017-04-17 14:12:52 -0700
+date:   2017-06-29 14:12:52 -0700
 categories: leadership
 ---
 Peter Drucker said it best "Culture eats strategy for breakfast."
