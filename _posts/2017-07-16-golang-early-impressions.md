@@ -16,7 +16,7 @@ The first thing that jumped out to me was the procedural nature of the code. Bel
 
 Another thing that has pulled me in is the fact that Go is a C derived language. I started learning development in C. C based languages have always felt so clean and nostalgic. 
 
-The syntax is simple yet expressive, but it does feel in some places that things have been changed for the sake of change. The variable declaration makes complete sense to me. The use of pointers versus reference passed throughout forces thoughtful design. So much more. At the end of the day the syntax and structure is opinionated. If you share the same thoughts as the original language design aspirations you will love go. If you do not you will fight it and struggle.
+The syntax is simple yet expressive, but it does feel in some places that things have been changed for the sake of change. The variable declaration approach makes complete sense to me. Pointers supporting various pass by value or by reference approaches force thoughtful, clean, purposeful flow. These are some highlight, and there is no much more. At the end of the day the syntax and structure is opinionated. If you share the same thoughts as the original design aspirations you will love Go. If you do not favor opinionated frameworks or Go does not align with you thinking then you will fight and struggle.
 
 One of the things that I loved & loathed about C#, C++, etc was the interface system or I should say the promise of interfaces versus the reality. The promise to me of an interface was a mechanism that enabled polymorphic code. The reality felt as if i was bloating my code...I always wondered why I had to explicitly declare that a class was an implementation of an interface. It just felt like a little messy and redundant.
 
