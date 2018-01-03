@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Incidently Build Part 1 - Elixir & the Phoenix Framework"
+title:  "Incidently Build Part 1 - Elixir & The Phoenix Framework"
 date:   2018-01-02 17:00:00 -0700
 categories: code elixir phoenix side-projects
 ---
